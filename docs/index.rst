@@ -3,12 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to test's documentation!
-================================
+Cơ sở dữ liệu nội dung khoa học của ExploraScience
+==================================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :titlesonly:
+
+   exhibits/exhibits
+   shows/shows
 
 
 
