@@ -50,6 +50,9 @@ Cơ sở dữ liệu nội dung khoa học của ExploraScience
   ..
     Ngôn ngữ RST qua ví dụ:
     https://draft-edx-style-guide.readthedocs.io/en/latest/ExampleRSTFile.html
+    Cách fork:
+    https://help.github.com/en/github/getting-started-with-github/fork-a-repo
+
 
 .. toctree::
    :hidden:
